@@ -1,0 +1,29 @@
+h1{
+  font-family: "Montserrat",serif;
+  color: #fff;
+  padding-top: 3rem;
+}
+
+body{
+  background-color: #2C394B;
+  text-align: center;
+}
+
+.btn {
+  width: 145px;
+  height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #000;
+  background-color: #2EE59D;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  }

@@ -1,0 +1,79 @@
+body{
+  background-color: #2C394B;
+  position: relative;
+  padding-bottom: 28px;
+  min-height: 100vh;
+}
+
+.card{
+  width: 286px;
+  height: 359.875px;
+  text-align: center;
+  transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  cursor: pointer;
+  /* font-family: "Montserrat"; */
+}
+
+#mycards{
+  padding-top: 3rem;
+  padding-right: 3rem;
+  padding-left: 6rem;
+}
+
+.card:hover{
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn {
+  width: 145px;
+  height: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #000;
+  background-color: #2EE59D;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+
+  #last{
+    height: 28px;
+    text-align: center;
+    background-color: #EEEEEE;
+    color: #000;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+  }
+
+  .nav-link{
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+    font-weight: bolder;
+    letter-spacing: 2.5px;
+  }
+
+  .footbutt{
+    margin-left: 35px;
+    margin-top: 50px;
+  }
+
+
+  @media (max-width: 1000px) {
+    .card{
+      margin-bottom: 1.8rem;
+    }
+
+    .footbutt{
+      margin-bottom: 2rem;
+      margin-left: 10rem;
+
+    }
+}
