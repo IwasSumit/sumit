@@ -68,17 +68,20 @@ body{
 
 
   @media (max-width: 1000px) {
+    body{
+      text-align: center;
+    }
     .card{
       margin-bottom: 1.8rem;
     }
 
     .footbutt{
       margin-bottom: 2rem;
-      margin-left: 7rem;
+      margin-left: 6rem;
 
     }
 
     #mycards{
-      padding-left: 1.6rem;
+      padding-left: 2rem;
     }
 }
