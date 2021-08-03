@@ -79,6 +79,11 @@ hr{
 
 }
 
+
+.text-intro{
+  padding-right: 10rem;
+}
+
 @media (max-width: 1000px) {
   #me{
     text-align: left;
@@ -105,9 +110,6 @@ hr{
   padding-top: 20px;
 }
 
-.text-intro{
-  padding-right: 10rem;
-}
 
 .fabss{
   padding-bottom: 15px;
