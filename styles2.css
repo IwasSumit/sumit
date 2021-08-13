@@ -82,6 +82,7 @@ body{
     }
 
     #mycards{
-      padding-left: 2.2rem;
+      margin: auto;
+/*       padding-left: 2.2rem; */
     }
 }
