@@ -105,3 +105,8 @@ h3{
     }
 
   }
+@media (min-width: 1290px){
+  .video-wrapper{
+    left: 20px;
+  }
+}
