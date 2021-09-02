@@ -86,3 +86,7 @@ body{
       padding-left: 3rem;
     }
 }
+
+@media (min-width: 1295px){
+  padding-left: 5rem;
+}
