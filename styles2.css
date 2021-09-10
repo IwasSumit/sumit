@@ -94,6 +94,7 @@ body{
 
 @media (min-width: 1295px){
   #mycards{
-  padding-left: 7rem;
+  align: center;
+  margin: auto; 
   }
 }
