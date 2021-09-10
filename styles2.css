@@ -97,4 +97,7 @@ body{
   align: center;
   margin: auto; 
   }
+  .col{
+    margin: auto;
+  }
 }
