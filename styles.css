@@ -282,4 +282,6 @@ hr.style6 {
 .ffab:hover{
   transform: scale(2);
 }
-
+#last{
+	margin: 2%;
+}
