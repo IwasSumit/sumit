@@ -55,7 +55,9 @@ body{
 
    .allcards{
      margin: auto;
-   }
+     padding-left: 12%;
+}
+	
   .card{
     width: 70%;
     margin-bottom: 10%;
