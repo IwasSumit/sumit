@@ -74,7 +74,7 @@ body{
 }
 @media only screen and (max-width: 470px) {
   .allcards{
-    padding-left: 20px;
+    margin: auto;
   }
 }
 .btn {
