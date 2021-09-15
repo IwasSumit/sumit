@@ -11,7 +11,7 @@
 }
 
 body{
-  text-align: center;
+   text-align: center;
    margin: auto;
    font-family: 'Montserrat', sans-serif;
 }
@@ -55,7 +55,7 @@ body{
 
    .allcards{
      margin: auto;
-     padding-left: 12%;
+     width: 80%;
 }
 	
   .card{
@@ -76,8 +76,9 @@ body{
 }
 @media only screen and (max-width: 470px) {
   .allcards{
+    width: 65%;
     margin: auto;
-    padding-left: 10%;
+/*     padding-left: 10%; */
   }
 }
 .btn {
