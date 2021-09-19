@@ -38,6 +38,10 @@ body{
      width: 150px;
 
    }
+	
+   .elvesit{
+       margin-top: 4%;
+    }
    .text-intro{
      margin-left: 0;
      margin-top: 0;
@@ -152,9 +156,7 @@ body{
   margin-bottom:7%;
 }
 
-.elvesit{
-  margin-top: 4%;
-}
+
 
 .el{
   margin-bottom: 0;
