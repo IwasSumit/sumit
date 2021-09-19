@@ -31,7 +31,7 @@ body{
 }
 
 .allcards{
-  border-left: 5%;
+  padding-left: 5%;
   width: 1300px;
 }
 
