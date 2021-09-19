@@ -168,8 +168,8 @@ body{
 }
 
 .allcards{
-  margin-left: 10%;
-  width: 80%;
+  margin-left: auto;
+/*   width: 80%; */
 }
 
 .card{
