@@ -58,8 +58,8 @@ body{
    }
 
    .allcards{
-     margin: 15%;
-     width: 50%;
+     margin-left: 15%;
+     width: 65%;
 }
 	
   .card{
@@ -172,7 +172,6 @@ body{
 .allcards{
   margin-left: 5%;
   width: 1300;
-
 }
 
 .card{
