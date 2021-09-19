@@ -68,7 +68,7 @@ body{
 }
 	
   .card{
-    width: 70%;
+    width: 75%;
     margin-bottom: 10%;
     margin-top: 3%;
     padding-bottom: 10%;
@@ -85,7 +85,7 @@ body{
 }
 @media only screen and (max-width: 470px) {
   .allcards{
-    width: 65%;
+    width: 75%;
     margin-left: 15%;
 
   }
